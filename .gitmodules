@@ -1,0 +1,3 @@
+[submodule "math151"]
+	path = math151
+	url = https://github.com/TesfaAsmara/math151.git
